@@ -1,1 +1,1 @@
-# Article-Summarizer-Using-AI-API-
+# Article-Summarizer-Using-AI
